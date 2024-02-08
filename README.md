@@ -1,14 +1,14 @@
-#JavaForm
+# JavaForm :rocket: :sparkles:
 ### Description
 The purpose of this projet is to learn how to use Git and JavaFX using the MVC pattern
 
-1. Git basic commands
+1. [Git](https://git-scm.com/) 
    - git init
    - git commit -m "Commit message"
    - git add
    - git push
-2. JavaFX
-   - create a java form using javaFX
+2. [JavaFX](https://openjfx.io/)
+   - create a java form using JavaFX
    - create a view using Scene Builder
    - create a controller to execute actions.
   
