@@ -1,3 +1,22 @@
+#JavaForm
+### Description
+The purpose of this projet is to learn how to use Git and JavaFX using the MVC pattern
+
+1. Git basic commands
+   - git init
+   - git commit -m "Commit message"
+   - git add
+   - git push
+2. JavaFX
+   - create a java form using javaFX
+   - create a view using Scene Builder
+   - create a controller to execute actions.
+  
+     
+Contributors 
+[@CelesteMonter](https://github.com/CelesteMonter)
+[@CarlosAlvarado](https://github.com/caralv27/)
+
 ### Image sample 
 ![Sample](https://raw.githubusercontent.com/caralv27/JavaForm/main/screenshot.png)
 
