@@ -1,3 +1,6 @@
+### Image sample 
+![Sample](https://raw.githubusercontent.com/caralv27/JavaForm/main/screenshot.png)
+
 This project contains 3 main functions
 [Code Source](https://github.com/caralv27/JavaForm/blob/main/src/main/java/com/example/javaform/HelloController.java)
 
